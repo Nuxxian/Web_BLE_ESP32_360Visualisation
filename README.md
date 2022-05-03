@@ -6,7 +6,7 @@ A flask web app controls everything and takes the pictures automatically and sav
 
 
 ## Flask needs to run on https
-*Download openssl: https://slproweb.com/products/Win32OpenSSL.html
+* Download openssl: https://slproweb.com/products/Win32OpenSSL.html
 * openssl.exe req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 365
 *run this in C:program files/openssl/bin/*
 * move key and perm files into *secure* folder
