@@ -9,6 +9,6 @@ A flask web app controls everything and takes the pictures automatically and sav
 
 
 Sources:
-https://github.com/pdjstone/cloudpets-web-bluetooth 
-https://stackoverflow.com/questions/65546987/how-to-capture-images-using-opencv-and-flask
-codesandbox mediacapture for focusMode and ExposureTime
+* https://github.com/pdjstone/cloudpets-web-bluetooth 
+* https://stackoverflow.com/questions/65546987/how-to-capture-images-using-opencv-and-flask
+* codesandbox mediacapture for focusMode and ExposureTime
